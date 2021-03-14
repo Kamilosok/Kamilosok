@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kamilosok
+- 👀 I’m interested in Unity/C#/C++/Python
+- 🌱 I’m currently learning Unity and C++
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me: kazdancewicz@gmail.com
