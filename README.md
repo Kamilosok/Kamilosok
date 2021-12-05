@@ -1,4 +1,4 @@
 - I'm Kamilosok
-- I’m interested in Unity/C#/C++/Python
-- I’m currently learning Unity, C++ and Java
+- I’m interested in Unity/C#/C++/Python/Java
+- I’m currently learning many algorithms and attending lectures about the topic
 - Contact : kazdancewicz@gmail.com
