@@ -1,4 +1,1 @@
-- I'm Kamilosok
-- I’m interested in Unity/C#/C++/Python/Java
-- I’m currently learning many algorithms and attending lectures about the topic
-- Contact : kazdancewicz@gmail.com
+3rd-year Computer Science & Mathematics student focused on low-level systems, embedded development, and building software from first principles. Interested in C, bare-metal programming, operating systems, and hardware-close design.
